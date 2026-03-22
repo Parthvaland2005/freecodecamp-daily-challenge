@@ -32,7 +32,7 @@ python detect_roast.py
 
 ## 📅 Challenge
 
-This solution is part of my **FreeCodeCamp Daily Coding Challenge (Day 10)** to improve problem-solving skills and consistency in coding.
+This solution is part of my **FreeCodeCamp Daily Coding Challenge** to improve problem-solving skills and consistency in coding.
 
 ---
 
