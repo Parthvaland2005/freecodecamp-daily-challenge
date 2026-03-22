@@ -1,39 +1,39 @@
-# ☕ Coffee Roast Detector 
+# 🚀 FreeCodeCamp Daily Coding Challenge
 
-This is a simple Python program that detects the roast level of coffee beans based on input symbols.
+This repository contains my daily Python coding challenge solutions as part of my consistency and problem-solving improvement journey.
 
-## 🚀 Problem Description
+I solve one problem every day and upload the solution here to track my progress and build strong logical thinking skills.
 
-Each coffee bean is represented by a symbol:
+## 📅 Progress
 
-* `.` → Light Roast
-* `-` → Medium Roast
-* `#` → Dark Roast
+* ✅ Day 1 – Anniversary Milestone
+* ✅ Day 2 – Largest Number from String (Regex)
+* ✅ Day 3 – Inverted Matrix
+* ✅ Day 4 – Equinox Shadow Logic
+* ✅ Day 5 – QR Decoder
+* ✅ Day 6 – Coffee Roast Detector
 
-The program calculates the average roast value and returns:
+## 🧠 Concepts Practiced
 
-* **Light** if average ≤ 1.75
-* **Medium** if average ≤ 2.5
-* **Dark** otherwise
-
-## 🧠 Concepts Used
-
-* Python Functions
-* Dictionary Mapping
-* List Comprehension
-* Average Calculation
-* Conditional Statements
+* Conditional Logic
+* Matrix Traversal
+* Regular Expressions
+* Mathematical Reasoning
+* Data Processing
+* Clean Code Writing
 
 ## ▶️ How to Run
 
 ```bash
-python detect_roast.py
+python filename.py
 ```
 
-## 📅 Challenge
+Example:
 
-This solution is part of my **FreeCodeCamp Daily Coding Challenge** to improve problem-solving skills and consistency in coding.
+```bash
+python day3_inverted_matrix.py
+```
 
 ---
 
-⭐ If you like this project, feel free to star the repo!
+⭐ This journey is helping me stay consistent and improve my problem-solving skills step by step.
