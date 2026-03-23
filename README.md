@@ -12,6 +12,7 @@ I solve one problem every day and upload the solution here to track my progress 
 * ✅ Day 4 – Equinox Shadow Logic
 * ✅ Day 5 – QR Decoder
 * ✅ Day 6 – Coffee Roast Detector
+* ✅ Day 7 – No Consecutive Repeats
 
 ## 🧠 Concepts Practiced
 
