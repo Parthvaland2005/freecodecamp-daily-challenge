@@ -4,16 +4,6 @@ This repository contains my daily Python coding challenge solutions as part of m
 
 I solve one problem every day and upload the solution here to track my progress and build strong logical thinking skills.
 
-## 📅 Progress
-
-* ✅ Day 1 – Anniversary Milestone
-* ✅ Day 2 – Largest Number from String (Regex)
-* ✅ Day 3 – Inverted Matrix
-* ✅ Day 4 – Equinox Shadow Logic
-* ✅ Day 5 – QR Decoder
-* ✅ Day 6 – Coffee Roast Detector
-* ✅ Day 7 – No Consecutive Repeats
-
 ## 🧠 Concepts Practiced
 
 * Conditional Logic
