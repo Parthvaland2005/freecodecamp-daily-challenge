@@ -1,18 +1,29 @@
 # 🚀 FreeCodeCamp Daily Coding Challenge
 
-This repository contains my daily Python coding challenge solutions as part of my consistency and problem-solving improvement journey.
+Welcome to my daily coding journey! 👨‍💻  
 
-I solve one problem every day and upload the solution here to track my progress and build strong logical thinking skills.
+This repository contains my **daily Python coding challenge solutions** as part of my commitment to consistency and improving problem-solving skills.
+
+---
+
+## 📅 Challenge Goal
+- Solve **1 problem every day**
+- Improve **logic building & coding skills**
+- Maintain a **consistent GitHub streak 🔥**
+
+---
 
 ## 🧠 Concepts Practiced
+- Conditional Logic
+- Loops & Iteration
+- Matrix Traversal
+- Regular Expressions
+- Date & Time Handling ⏱️
+- Mathematical Reasoning
+- Data Processing
+- Clean Code Practices
 
-* Conditional Logic
-* Matrix Traversal
-* Regular Expressions
-* Mathematical Reasoning
-* Data Processing
-* Clean Code Writing
-
+---
 ## ▶️ How to Run
 
 ```bash
