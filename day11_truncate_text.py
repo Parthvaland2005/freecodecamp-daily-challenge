@@ -13,30 +13,22 @@ def truncate_text(s):
             return 1
         else:
             return 3
-
-    # total width
     total = 0
     for c in s:
         total += w(c)
-
-    # if <= 50 return same
     if total <= 50:
         return s
-
-    # truncate logic
     res = ""
     width = 0
 
     for c in s:
-        if width + w(c) + 3 > 60:  # +3 for "..."
+        if width + w(c) + 3 > 60: 
             break
         res += c
         width += w(c)
 
     return res + "..."
 
-
-# 🔽 Testing (VS Code માં output જોવા માટે)
 print(truncate_text("The quick brown fox"))
 print(truncate_text("The silky smooth sloth"))
 print(truncate_text("THE LOUD BRIGHT BIRD"))
