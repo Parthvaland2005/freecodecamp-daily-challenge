@@ -21,7 +21,7 @@ This repository contains my **daily Python coding challenge solutions** as part 
 - Date & Time Handling 
 - Mathematical Reasoning
 - Data Processing
-- Clean Code Practices
+- Clean Code 
 
 ---
 ## ▶️ How to Run
