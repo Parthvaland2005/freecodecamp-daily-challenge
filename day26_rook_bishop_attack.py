@@ -1,8 +1,8 @@
 def rook_bishop_attack(rook, bishop):
-    
+        
     r_col, r_row = rook[0], int(rook[1])
     b_col, b_row = bishop[0], int(bishop[1])
-    
+  
     if r_col == b_col or r_row == b_row:
         return "rook"
     
